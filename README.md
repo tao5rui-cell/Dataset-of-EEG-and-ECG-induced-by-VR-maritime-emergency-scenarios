@@ -1,7 +1,6 @@
 # Dataset-of-EEG-and-ECG-induced-by-VR-maritime-emergency-scenarios
-EEG-ECG Feature Fusion and Emotion Classification
 
-Project Overview
+Project Overview:
 This repository provides a simple EEG-ECG feature fusion pipeline for classification tasks. The code extracts handcrafted features from EEG and ECG signals, fuses the two modalities, splits the fused features into training and validation sets, and trains a machine learning classifier for evaluation.
 
 Files
